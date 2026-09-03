@@ -61,16 +61,15 @@ https://sweet-semifreddo-4f24f0.netlify.app
 
 | Software | Skills |
 |---|---|
-| Autodesk Maya | ⭐⭐⭐⭐ |
-| ZBrush | ⭐⭐⭐ |
-| Adobe After Effects | ⭐⭐⭐ |
-| Photoshop | ⭐⭐⭐ |
-| 3D Animation | ⭐⭐⭐⭐ |
-| 3D Lighting | ⭐⭐⭐⭐ |
-| Texturing | ⭐⭐⭐⭐ |
-| Character Rigging | ⭐⭐⭐ |
-| Character Design | ⭐⭐⭐⭐ |
-
+| Autodesk Maya | 
+| ZBrush |
+| Adobe After Effects | 
+| Photoshop | 
+| 3D Animation | 
+| 3D Lighting | 
+| Texturing | 
+| Character Rigging | 
+| Character Design | 
 ---
 
 ## 🚀 Featured Projects
