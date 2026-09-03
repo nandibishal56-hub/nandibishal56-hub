@@ -154,7 +154,7 @@ I'm particularly interested in opportunities within the **gaming, animation, VFX
 
 📧 **Email:** Nandibishal56@gmail.com
 
-📱 **Phone:** 9366112783
+📱 **Phone:** +919366112783
 
 🌐 **Portfolio:**  
 https://sweet-semifreddo-4f24f0.netlify.app
