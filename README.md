@@ -60,7 +60,7 @@ https://sweet-semifreddo-4f24f0.netlify.app
 ## 💻 Software & Tools
 
 | Software | Skills |
-|---|---|
+
  Autodesk Maya 
  ZBrush 
  Adobe After Effects  
